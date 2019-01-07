@@ -1,3 +1,3 @@
 # coursera_assignment  
 ### My codes for all the courses' main homework:  
-## - __final assignment from 'Craft Quality Code':__  
+1. ## - __final assignment from 'Craft Quality Code':__  
