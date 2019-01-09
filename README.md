@@ -4,8 +4,7 @@
    * a2 - rat and maze
    * mazeapp - GUI and link to a2
    * main() - initialize the whole application
-* ### __thought process:__ 
-## <span style="color:green">RatRace</span>
+* ### __thought process:__  
 ### <span style="color:purple">logics: </span>
 - three entities: rat (track location and eat sprout); maze (symobls, rules for symbols, rules of move, link rat location to maze)  
 - decouple rat from maze as if rat floats above maze  
