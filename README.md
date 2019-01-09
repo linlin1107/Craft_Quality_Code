@@ -1,8 +1,6 @@
-# coursera_assignment  
+# Craft Quality Code  
 
-### My codes for all the courses' main homework:  
-
-1. ### __final assignment from 'Craft Quality Code':__ Rat racing  
-   * a2 - rat and maze
-   * mazeapp - GUI and link to a2
-   * main() - initialize the whole application
+* ### __final assignment:__ Rat racing  
+   1. a2 - rat and maze
+   2. mazeapp - GUI and link to a2
+   3. main() - initialize the whole application
